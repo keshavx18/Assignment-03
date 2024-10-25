@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card01{
+    text-align: center;
+    width: 300px;
+    border: 1px solid lightgrey;
+    padding: 48px;
+    margin: 20px auto;
+    border-radius: 12px;
+}
+.card01-wave{
+    font-size: 40px;
+}
+.card1-wel{
+    margin-top: 10px;
+    font-size: 35px;
+}
+.card1-wel-note{
+    font-size: 18px;
+    margin-top: 10px;
+    color: rgb(72, 69, 69);
+}
+.card01-work{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.card01-work-icon{
+    font-size: 18px;
+}
+
+.card02{
+    text-align: center;
+    width: 300px;
+    border: 1px solid lightgrey;
+    padding: 48px;
+    margin: 20px auto;
+    border-radius: 12px;
+}
+
+.card02-card-input{
+    margin-top: 10px;
+    display: flex;
+    font-size: 17px;
+    font-weight: 300;
+    color: lightgray;
+    justify-content: space-between;
+    padding: 12px;
+    border: 2px solid rgb(55, 113, 133);
+    border-radius: 12px;
+}
+.card02-button{
+    margin-top: 13px;
+    padding: 10px 80px;
+    font-size: 17px;
+    border-radius: 12px;
+    color: aliceblue;
+    background-color: blue;
+}
+.card02-footer-note{
+    margin-top: 16px;
+    font-size: 16px;
+}
+.card02-footer-note i{
+    font-size: 20px;
+}
+
+.card03{
+    text-align: center;
+    width: 300px;
+    border: 1px solid lightgrey;
+    padding: 48px;
+    margin: 20px auto;
+    border-radius: 12px;
+}
+.card03-icon{
+    font-size: 34px;
+}
+.card03-wel{
+    margin-top: 12px;
+    font-size: 34px;
+}
+.card03-note{
+    margin-top: 12px;
+    font-size: 18px;
+    color: gray;
+}
+.card03-input01{
+    margin-top: 14px;
+    display: flex;
+    justify-content: space-between;
+    padding: 14px;
+    background-color: lightgray;
+    border-radius: 12px;
+    font-size: 16px;
+}
+.card03-footer-note{
+    margin-top: 20px;
+    color: gray;
+}
+.card04{
+    
+    width: 300px;
+    border: 1px solid lightgrey;
+    padding: 48px;
+    margin: 20px auto;
+    border-radius: 12px;
+}
+.card04-icon{
+    text-align: center;
+    font-size: 34px;
+}
+.card04-wel{
+    text-align: center;
+    margin-top: 12px;
+    font-size: 34px;
+}
+.card04-note{
+    margin-top: 12px;
+    font-size: 16px;
+    color: gray;
+}
+.card04-input01{
+    margin-top: 12px;
+}
+#company-Name{
+    margin-top: 5px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 12px;
+}
+.card04-input02{
+    margin-top: 12px;
+}
+#insdustry{
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+.card04-input03{
+    margin-top: 12px;
+}
+#role{
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 8px;
+}
